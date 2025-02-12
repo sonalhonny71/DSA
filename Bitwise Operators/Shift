@@ -1,0 +1,6 @@
+Left Shift= Multiply by 2
+right shift= Divide by 2
+For smaller numbers only..
+Larger numbers maybe converted to negative number if 1 at the 31st position is left shifted to 32
+cout<< (17>>1) <<endl;       8
+cout<< (21<<2)<<endl;        84
